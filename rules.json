@@ -1,0 +1,134 @@
+[
+  {
+    "pattern": "(?i).*sorry.*",
+    "response": "Please don't apologize."
+  },
+  {
+    "pattern": "(?i).*remember.*",
+    "response": "Do you often think of that?"
+  },
+  {
+    "pattern": "(?i).*if.*",
+    "response": "Do you think it's likely that?"
+  },
+  {
+    "pattern": "(?i).*dream.*",
+    "response": "What does that dream suggest to you?"
+  },
+  {
+    "pattern": "(?i).*mother.*",
+    "response": "Tell me more about your family."
+  },
+  {
+    "pattern": "(?i).*father.*",
+    "response": "Tell me more about your family."
+  },
+  {
+    "pattern": "(?i).*sister.*",
+    "response": "Tell me more about your family."
+  },
+  {
+    "pattern": "(?i).*brother.*",
+    "response": "Tell me more about your family."
+  },
+  {
+    "pattern": "(?i).*computer.*",
+    "response": "Do computers worry you?"
+  },
+  {
+    "pattern": "(?i).*machine.*",
+    "response": "What do you think about machines?"
+  },
+  {
+    "pattern": "(?i).*name.*",
+    "response": "I am not interested in names."
+  },
+  {
+    "pattern": "(?i).*deutsch.*|.*francais.*|.*italiano.*|.*espanol.*",
+    "response": "I am sorry, I speak only English."
+  },
+  {
+    "pattern": "(?i).*hello.*|.*hi.*",
+    "response": "How do you do. Please state your problem."
+  },
+  {
+    "pattern": "(?i).*i remember.*",
+    "response": "Do you often think of that?"
+  },
+  {
+    "pattern": "(?i).*do you remember.*",
+    "response": "Did you think I would forget?"
+  },
+  {
+    "pattern": "(?i).*i want.*",
+    "response": "What would it mean to you if you got that?"
+  },
+  {
+    "pattern": "(?i).*i need.*",
+    "response": "Why do you need that?"
+  },
+  {
+    "pattern": "(?i).*i am sad.*|.*i am unhappy.*|.*i am depressed.*",
+    "response": "I am sorry to hear you are sad."
+  },
+  {
+    "pattern": "(?i).*i am happy.*|.*i am glad.*",
+    "response": "How have I helped you to be happy?"
+  },
+  {
+    "pattern": "(?i).*i can't.*|.*i cannot.*",
+    "response": "How do you know you can't?"
+  },
+  {
+    "pattern": "(?i).*i don't.*",
+    "response": "Why don't you?"
+  },
+  {
+    "pattern": "(?i).*i feel.*",
+    "response": "Tell me more about such feelings."
+  },
+  {
+    "pattern": "(?i).*why don't you.*",
+    "response": "Should you do that yourself?"
+  },
+  {
+    "pattern": "(?i).*why can't i.*",
+    "response": "Do you think you should be able to?"
+  },
+  {
+    "pattern": "(?i).*are you.*",
+    "response": "Why are you interested in whether I am that or not?"
+  },
+  {
+    "pattern": "(?i).*i am.*",
+    "response": "Do you believe you are?"
+  },
+  {
+    "pattern": "(?i).*because.*",
+    "response": "Is that the real reason?"
+  },
+  {
+    "pattern": "(?i).*yes.*",
+    "response": "You seem quite positive."
+  },
+  {
+    "pattern": "(?i).*no.*",
+    "response": "Why not?"
+  },
+  {
+    "pattern": "(?i).*my.*",
+    "response": "Tell me more about your."
+  },
+  {
+    "pattern": "(?i).*always.*",
+    "response": "Can you think of a specific example?"
+  },
+  {
+    "pattern": "(?i).*everyone.*|.*everybody.*|.*nobody.*|.*noone.*",
+    "response": "Really, everyone?"
+  },
+  {
+    "pattern": "(?i).*what.*|.*how.*|.*when.*|.*why.*",
+    "response": "Why do you ask?"
+  }
+]
